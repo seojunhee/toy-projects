@@ -1,0 +1,9 @@
+.board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.board-body-child{
+    border: solid 1px;
+}
